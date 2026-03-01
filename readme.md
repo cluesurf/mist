@@ -67,13 +67,13 @@ Please help us curate the best words and sentences for easy translation! Here ar
   <br />
   To the extent possible under law,
   <a rel="dct:publisher"
-     href="https://github.com/termsurf">
-    <span property="dct:title">TermSurf</span></a>
+     href="https://github.com/cluesurf">
+    <span property="dct:title">ClueSurf</span></a>
   has waived all copyright and related or neighboring rights to
   <span property="dct:title">mist-text</span>.
 This work is published from the
 <span property="vcard:Country" datatype="dct:ISO3166"
-      content="US" about="https://github.com/termsurf">
+      content="US" about="https://github.com/cluesurf">
   United States</span>.
 </p>
 
