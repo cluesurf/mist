@@ -6,11 +6,11 @@
 <br/>
 
 <p align='center'>
-  <img src='https://github.com/termsurf/mist-text/blob/make/view/view.svg?raw=true' height='256'>
+  <img src='https://github.com/cluesurf/mist/blob/make/view/view.svg?raw=true' height='256'>
 </p>
 
 <h3 align='center'>
-  mist-text
+  mist
 </h3>
 <p align='center'>
   Public Domain Words and Texts for Conlangs
@@ -22,13 +22,13 @@
 
 ## Summary
 
-This project has some files to get you started in creating your conlang. See the text folder. Use the [tone script](https://github.com/termsurf/tone) to write your language words and sentences phonologically.
+This project has some files to get you started in creating your conlang. See the text folder. Use the [Tone script](https://github.com/cluesurf/tone) to write your language words and sentences phonologically.
 
 There are already some great guides on the web explaining how to create a conlang. What is mostly missing though are lists of words and lists of sentences, and potentially some simple stories, which you could translate into your conlang to bootstrap its development. This "mist" project is exactly that, collecting lists of simple words (nouns, verbs, adjectives, adverbs, prepositions, and determiners, in English), simple sentences, and a few simple stories which you could translate into your conlang or fantasy language to help get your mind working and developing your language's rich features.
 
-- [Words](https://github.com/termsurf/mist-text/tree/make/text/list/word)
-- [Sentences](https://github.com/termsurf/mist-text/tree/make/text/list/sentence)
-- [Stories](https://github.com/termsurf/mist-text/tree/make/text)
+- [Words](https://github.com/cluesurf/mist/tree/make/text/list/word)
+- [Sentences](https://github.com/cluesurf/mist/tree/make/text/list/sentence)
+- [Stories](https://github.com/cluesurf/mist/tree/make/text)
 
 _FYI, the "full" word lists will always be in the process of being developed/curated, but the 1000 word lists are pretty complete, though could use another pass or two down the road to double check._
 
@@ -79,11 +79,13 @@ This work is published from the
 
 Basically, the content in this toolkit is totally free to use for whatever purpose you want, no matter what.
 
-## TermSurf
+## ClueSurf
 
-This is being developed by the folks at [TermSurf](https://term.surf), a
-California-based project for helping humanity master information and
-computation. Find us on [Twitter](https://twitter.com/termsurfcode),
-[LinkedIn](https://www.linkedin.com/company/termsurf), and
-[Facebook](https://www.facebook.com/termsurf). Check out our other
-[GitHub projects](https://github.com/termsurf) as well!
+Made by [ClueSurf](https://clue.surf), meditating on the universe ¤.
+Follow the work on [YouTube](https://youtube.com/@cluesurf),
+[X](https://x.com/cluesurf),
+[Instagram](https://instagram.com/cluesurf),
+[Substack](https://cluesurf.substack.com),
+[Facebook](https://facebook.com/cluesurf), and
+[LinkedIn](https://linkedin.com/company/cluesurf), and browse more of
+our open-source work here on [GitHub](https://github.com/cluesurf).
